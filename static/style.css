@@ -1,0 +1,38 @@
+body {
+  background-image: url("../static/clouds.gif");
+}
+
+.header span {
+  font-family: Helvetica Neue;
+  font-size: 50px;
+  color: white;
+  background-color: #00acee; 
+}
+
+.onlinecount {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
+  color: white;
+}
+
+ol li{
+  list-style-type: none;
+}
+
+.chatbox {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("../static/gundam.jpg");
+  height: 432.624px;
+  width: 1000px;
+  overflow-y: scroll
+}
+
+#botpic {
+  width: auto;
+  height: 50px;
+}
+
+#pfp {
+  width: auto;
+  height: 50px;
+}
